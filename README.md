@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @teifler
-- 👀 I’m interested in Webdevelopment and automation
-- 🌱 I’m currently learning HTML/CSS/Javascript/Angular/APIs
-- 💞️ I’m looking to collaborate on creative projects.
-- 📫 How to reach me my contact informations are on my landing page :)
-
-
 ### Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/tim-eifler/)
@@ -25,6 +18,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000?logo=Firebase)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=Bootstrap)
 
+### Github Stats
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=teifler)](https://git.io/streak-stats)
