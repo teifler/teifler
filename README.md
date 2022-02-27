@@ -1,3 +1,6 @@
+After first steps of coding with Bash and Java, I'm currently learning with neuefische to start my career in web development.
+
+
 ### Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/tim-eifler/)
