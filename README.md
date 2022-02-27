@@ -15,7 +15,6 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Express.js](https://img.shields.io/badge/-Expressjs-000?logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
-![Firebase](https://img.shields.io/badge/-Firebase-000?logo=Firebase)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=Bootstrap)
 
 ### Github Stats
