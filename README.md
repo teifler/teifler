@@ -1,4 +1,4 @@
-After first steps of coding with Bash and Java, I'm currently learning with neuefische to start my career in web development.
+After first steps of coding with Bash and Java, I'm currently learning with neuefische to start my career in web development. I love to build, learn and have fun along the way.
 
 
 ### Contact me
