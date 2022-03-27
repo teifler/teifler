@@ -1,3 +1,5 @@
+Hi I'm Tim <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 After first steps of coding with Bash and Java, I'm currently learning with neuefische to start my career in web development. I love to build, learn and have fun along the way.
 
 
