@@ -25,7 +25,7 @@ new technologies, frameworks and tools.
 ![Jest](https://img.shields.io/badge/-Jest-000?logo=Jest)
 ![Express.js](https://img.shields.io/badge/-Expressjs-000?logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
-
+![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=Bootstrap)
 
 ### Github Stats
