@@ -1,8 +1,10 @@
 Hi I'm Tim <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-After first steps of coding with Bash and Java, I'm currently learning with neuefische to start my career in web development. I love to build things and break things and put them back together.
+Professional IT technician transits into Web Development with over 5 years of experience in computer networking, analytical thinking, creative
+problem solving, tools and testing methodologies. Interested in devising a better problem‑solving method for challenging tasks, and learning
+new technologies, frameworks and tools.
 
-I am open for collaborations! :)
+👨‍💻 I am currently learning TypeScript and VueJS.
 
 
 ### Contact me
@@ -19,8 +21,11 @@ I am open for collaborations! :)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript)
+![Jest](https://img.shields.io/badge/-Jest-000?logo=Jest)
 ![Express.js](https://img.shields.io/badge/-Expressjs-000?logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=Bootstrap)
 
 ### Github Stats
