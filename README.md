@@ -4,8 +4,6 @@ Professional IT technician transits into Web Development with over 5 years of ex
 problem solving, tools and testing methodologies. Interested in devising a better problem‑solving method for challenging tasks, and learning
 new technologies, frameworks and tools.
 
-👨‍💻 I am currently learning TypeScript and VueJS.
-
 
 ### Contact me
 
